@@ -77,7 +77,7 @@ vault:
   name: jx-vault-cloudsmart-ci-10121901
 velero:
   namespace: velero
-  schedule: 0 1 * * *
+  schedule: 0 8 * * *
   ttl: ""
 versionStream:
   ref: v1.0.306
